@@ -42,7 +42,8 @@
     "@stdlib/stats-base-ndarray-dmeanwd": "github:stdlib-js/stats-base-ndarray-dmeanwd#main",
     "@stdlib/stats-base-ndarray-meanwd": "github:stdlib-js/stats-base-ndarray-meanwd#main",
     "@stdlib/stats-base-ndarray-smeanwd": "github:stdlib-js/stats-base-ndarray-smeanwd#main",
-    "@stdlib/types": "^0.4.3"
+    "@stdlib/types": "^0.4.3",
+    "@stdlib/error-tools-fmtprodmsg": "^0.2.2"
   },
   "devDependencies": {
     "@stdlib/array-zeros": "^0.2.2",
