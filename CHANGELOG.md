@@ -2,6 +2,40 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2026-03-23)
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`41869d9`](https://github.com/stdlib-js/stdlib/commit/41869d94f78ab23930c999bb2dd09fcd0a71cf9a) - **bench:** refactor to use string interpolation in `stats/meanwd` [(#11088)](https://github.com/stdlib-js/stdlib/pull/11088) _(by Harshit Verma)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 1 person contributed to this release. Thank you to this contributor:
+
+-   Harshit Verma
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.1.1">
 
 ## 0.1.1 (2026-02-08)
