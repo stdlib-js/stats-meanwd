@@ -42,7 +42,7 @@
     "@stdlib/stats-base-ndarray-dmeanwd": "^0.1.1",
     "@stdlib/stats-base-ndarray-meanwd": "^0.1.1",
     "@stdlib/stats-base-ndarray-smeanwd": "^0.1.1",
-    "@stdlib/types": "^0.4.3"
+    "@stdlib/types": "^0.5.1"
   },
   "devDependencies": {
     "@stdlib/array-zeros": "^0.2.3",
